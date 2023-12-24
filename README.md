@@ -39,4 +39,8 @@ Sources: Introduction to JsonPowerDB V2.0
 
 Other information Sources : https://login2explore.com/jpdb/docs.html
 
+# Illustrations
+A Sample test cases folder has been attached with some images which show the working of form and database collected.
+
+# Project done by: Prajakta
 
